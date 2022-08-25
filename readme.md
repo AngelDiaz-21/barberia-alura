@@ -23,3 +23,4 @@ En este curso se vio lo que es el HTML y CSS, la estructura básica de una archi
 * Concepto de clases y como referenciarla en el CSS.
 * Divisiores de contenido utilizando la etiqueta `<div>`
 * Los comportamientos `inline` y `block`.
+* El concepto de encabezado de página y como crearlo.
