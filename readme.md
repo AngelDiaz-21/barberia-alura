@@ -19,3 +19,7 @@ En este curso se vio lo que es el HTML y CSS, la estructura básica de una archi
 * Como adicionar una imagen en la página.
 * Como ajustar la altura y la anchura de un elemento con la propiedad `height` y `widt`, respectivamente.
 * Uso de la propiedad `padding` y `margin`.
+* Como usar las listas ordenadas y no ordenadas (`ol` y `ul`).
+* Concepto de clases y como referenciarla en el CSS.
+* Divisiores de contenido utilizando la etiqueta `<div>`
+* Los comportamientos `inline` y `block`.
