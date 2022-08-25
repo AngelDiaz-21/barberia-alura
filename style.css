@@ -1,9 +1,14 @@
 body{
-    background-color: #cccccc;
+    background-color: #ffffff;
 }
 
 .banner{
     width: 100%;
+}
+
+.principal{
+    background-color: #cccccc;
+    padding: 20px;
 }
 
 h1{
@@ -22,6 +27,23 @@ em strong{
     font-size: 20px;
 }
 
+.diferenciales h2{
+    text-align: center;
+}
+
+.diferenciales ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+    padding: 30px;
+}
+
 .items{
     font-style: italic;
+}
+
+.imgDiferenciales{
+    width: 50%;
+    border-radius: 5%;
 }
