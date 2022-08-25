@@ -2,6 +2,10 @@ body{
     background-color: #ffffff;
 }
 
+.title-principal{
+    padding-left: 30px;
+}
+
 .banner{
     width: 100%;
 }
@@ -11,7 +15,7 @@ body{
     padding: 20px;
 }
 
-h1{
+.principal h2{
     text-align: center;
 }
 
