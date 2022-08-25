@@ -16,3 +16,6 @@ En este curso se vio lo que es el HTML y CSS, la estructura básica de una archi
 * Separar el contenido de la página utilizando la etiqueta `<body>`.
 * Configurar la presentación de los textos: Alineamiento, tamaño de la fuente, el color del fondo y el color del texto.
 * Aplicar estilos CSS.
+* Como adicionar una imagen en la página.
+* Como ajustar la altura y la anchura de un elemento con la propiedad `height` y `widt`, respectivamente.
+* Uso de la propiedad `padding` y `margin`.
