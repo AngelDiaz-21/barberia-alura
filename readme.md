@@ -61,3 +61,6 @@ En este curso se vio como crear formularios, campos para dispositivos móviles, 
 * Como mostrar una sugerencia usando el atributo `placeholder`.
 * Uso del atributo `checked` para dejar una opción marcada en el `input` `radio` y `checkbox`.
 * Como estructurar mejor el código usando los elementos `fieldset` y `legend`.
+* Realizar transiciones en los elementos con la propiedad CSS `transition`.
+* Modificar el estilo del puntero del mouse a través de la propiedad `cursor`.
+* Realizar transformaciones en los elementos, como aumentar proporcionalmente la escala de determinado elemento o rotarlo a través de la propiedad `transform`.
