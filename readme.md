@@ -43,3 +43,13 @@ En este curso se vio la forma de navegar entre páginas web, el reset.css y el p
   * *hover*: Cuando el usuario pasa el cursor sobre el elemento. En este caso se ocupo para cambiar el tamaño de fuente, el color de fondo, border redondeados e incluso a implementar una transition.
   * *active*: Cuando un elemento está siendo activado (dando clic) por el usuario. En este caso para cambiar el tamaño y color de borde.
 * Uso de la etiqueta `<footer>` para el pie de página.
+
+## HTML5 y CSS3 parte 3: Trabajando con formularios y tablas
+En este curso se vio como crear formularios, campos para dispositivos móviles, presentar información en tablas. Estilos para formularios, campos y tablas, así como el uso de transformaciones y transiciones.
+
+### ¿Que se aprendió a lo largo de este curso?
+* A crear un formulario.
+* Uso de la etiqueta `<input>`, para la entrada de datos del usuario.
+* A crear una etiqueta para el input con la etiqueta `<label>`.
+* Que las etiquetas `<input>` y `<label>` poseen por defecto la propiedad `display inline`.
+* Tipos de input, como text, email. number, submit.
