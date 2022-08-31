@@ -39,3 +39,6 @@ En este curso se vio la forma de navegar entre páginas web, el reset.css y el p
 * A utilizar la propiedad `inline-block`.
 * A practicar y estilizar el contenido principal de la página productos.
 * Aplicar bordes a los elementos y bordes redondeados con las propiedades `border` y `border-radius` respectivamente.
+* Uso de pseudo clases CSS como:
+  * *hover*: Cuando el usuario pasa el cursor sobre el elemento. En este caso se ocupo para cambiar el tamaño de fuente, el color de fondo, border redondeados e incluso a implementar una transition.
+  * *active*: Cuando un elemento está siendo activado (dando clic) por el usuario. En este caso para cambiar el tamaño y color de borde.
