@@ -53,3 +53,6 @@ En este curso se vio como crear formularios, campos para dispositivos móviles, 
 * A crear una etiqueta para el input con la etiqueta `<label>`.
 * Que las etiquetas `<input>` y `<label>` poseen por defecto la propiedad `display inline`.
 * Tipos de input, como text, email. number, submit.
+* Uso de `textarea` para entradas de texto de más de una fila.
+* Uso de `input` `radio`, `checkbox`.
+* Uso del elemento `select` el cuál es un selector, un campo de selección de un ítem, y el elemento `option` que representa cada opción del selector.
