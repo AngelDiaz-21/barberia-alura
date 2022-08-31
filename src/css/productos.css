@@ -1,5 +1,18 @@
 header {
-    background-color: #BBBBBB;
+    background-color: #F7F0E7;
+    padding: 20px 0px;
+}
+
+.container-header{
+    width: 940px;
+    position: relative;
+    margin: 0px auto;
+}
+
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0;
 }
 
 nav li{
