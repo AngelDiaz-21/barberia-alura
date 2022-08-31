@@ -42,3 +42,4 @@ En este curso se vio la forma de navegar entre páginas web, el reset.css y el p
 * Uso de pseudo clases CSS como:
   * *hover*: Cuando el usuario pasa el cursor sobre el elemento. En este caso se ocupo para cambiar el tamaño de fuente, el color de fondo, border redondeados e incluso a implementar una transition.
   * *active*: Cuando un elemento está siendo activado (dando clic) por el usuario. En este caso para cambiar el tamaño y color de borde.
+* Uso de la etiqueta `<footer>` para el pie de página.
