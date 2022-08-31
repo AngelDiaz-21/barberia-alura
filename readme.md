@@ -56,3 +56,8 @@ En este curso se vio como crear formularios, campos para dispositivos móviles, 
 * Uso de `textarea` para entradas de texto de más de una fila.
 * Uso de `input` `radio`, `checkbox`.
 * Uso del elemento `select` el cuál es un selector, un campo de selección de un ítem, y el elemento `option` que representa cada opción del selector.
+* Uso de los `input` `email` y `tel`.
+* Uso del atributo `required` para configurar los campos como obligatorios.
+* Como mostrar una sugerencia usando el atributo `placeholder`.
+* Uso del atributo `checked` para dejar una opción marcada en el `input` `radio` y `checkbox`.
+* Como estructurar mejor el código usando los elementos `fieldset` y `legend`.
