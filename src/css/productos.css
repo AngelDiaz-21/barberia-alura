@@ -82,3 +82,15 @@ nav a:hover{
     font-weight: bold;
     margin-top: 10px;
 }
+
+footer{
+    text-align: center;
+    background-image: url(../assets/images/productos/bg.jpg);
+    padding: 40px;
+}
+
+.copyright{
+    color: white;
+    font-size: 13px;
+    margin: 15px;
+}
