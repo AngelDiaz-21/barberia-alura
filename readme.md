@@ -38,3 +38,4 @@ En este curso se vio la forma de navegar entre páginas web, el reset.css y el p
 * A crear listas complejas con títulos, imágenes y párrafos.
 * A utilizar la propiedad `inline-block`.
 * A practicar y estilizar el contenido principal de la página productos.
+* Aplicar bordes a los elementos y bordes redondeados con las propiedades `border` y `border-radius` respectivamente.
