@@ -32,3 +32,5 @@ En este curso se vio la forma de navegar entre páginas web, el reset.css y el p
 ### ¿Que se aprendió a lo largo de este curso?
 * Crear links para movernos a otras páginas con la etiqueta `<a>` y como quitar su decoración.
 * Como transformar el texto para tener todas las letras en mayúsculas con la propiedad `text-transform`.
+* Como quitar los estilos que el navegador crea automáticamente.
+* Como funcionan los posicionamientos static, relative y absolute de los elementos.
