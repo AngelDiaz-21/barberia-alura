@@ -34,3 +34,7 @@ En este curso se vio la forma de navegar entre páginas web, el reset.css y el p
 * Como transformar el texto para tener todas las letras en mayúsculas con la propiedad `text-transform`.
 * Como quitar los estilos que el navegador crea automáticamente.
 * Como funcionan los posicionamientos static, relative y absolute de los elementos.
+* Uso de la etiqueta `<main>` para el contenido principal de la página.
+* A crear listas complejas con títulos, imágenes y párrafos.
+* A utilizar la propiedad `inline-block`.
+* A practicar y estilizar el contenido principal de la página productos.
