@@ -1,0 +1,50 @@
+header {
+    background-color: #F7F0E7;
+    padding: 20px 0px;
+}
+
+.container-header{
+    width: 940px;
+    position: relative;
+    margin: 0px auto;
+}
+
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a{
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 5px;
+}
+
+nav a:hover{
+    font-size: 23px;
+    background-color: #BFD4ED;
+    border-radius: 10px;
+    text-decoration: underline;
+}
+
+
+footer{
+    text-align: center;
+    background-image: url(../assets/images/productos/bg.jpg);
+    padding: 40px;
+}
+
+.copyright{
+    color: white;
+    font-size: 13px;
+    margin: 15px;
+}
