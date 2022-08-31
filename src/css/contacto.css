@@ -23,3 +23,21 @@ form label, legend{
 .recibirActualizaciones{
     margin: 20px 0;
 }
+
+.btn-enviar{
+    width: 20%;
+    padding: 15px 0;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #6DD5FA;
+    border: none;
+    border-radius: 10px; 
+    cursor: pointer;
+}
+
+.btn-enviar:hover{
+    background-color: #2980b9;
+    color: white;
+    transition: 1s all;
+    transform: scale(1.1) rotate(3deg);
+}
