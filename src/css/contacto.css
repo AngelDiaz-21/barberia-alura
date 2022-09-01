@@ -41,3 +41,20 @@ form label, legend{
     transition: 1s all;
     transform: scale(1.1) rotate(3deg);
 }
+
+table{
+    width: 50%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+thead{
+    background-color: #555555;
+    color: white;
+    font-weight: bold;
+}
+
+td, th{
+    border: 2px solid black;
+    padding: 8px 15px;
+}
