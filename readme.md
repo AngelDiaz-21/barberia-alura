@@ -64,3 +64,11 @@ En este curso se vio como crear formularios, campos para dispositivos móviles, 
 * Realizar transiciones en los elementos con la propiedad CSS `transition`.
 * Modificar el estilo del puntero del mouse a través de la propiedad `cursor`.
 * Realizar transformaciones en los elementos, como aumentar proporcionalmente la escala de determinado elemento o rotarlo a través de la propiedad `transform`.
+* A crear una tabla HTML y colocar estilos.
+  * La etiqueta `table`, representa la tabla.
+  * La etiqueta `tr`, representa la fila de la tabla.
+  * La etiqueta `td`, representa la celda de la tabla.
+  * La etiqueta `thead`, representa el encabezado de la tabla.
+  * La etiqueta `tbody`, representa el cuerpo de la tabla.
+  * La etiqueta `th`, representa la celda del encabezado de la tabla.
+  * La etiqueta `tfoot`, representa el pie de página de la tabla.
