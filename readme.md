@@ -72,3 +72,13 @@ En este curso se vio como crear formularios, campos para dispositivos móviles, 
   * La etiqueta `tbody`, representa el cuerpo de la tabla.
   * La etiqueta `th`, representa la celda del encabezado de la tabla.
   * La etiqueta `tfoot`, representa el pie de página de la tabla.
+
+## HTML5 y CSS3 parte 4: Avanzando en CSS
+En este curso se vio como importar contenido externo como fuentes, videos y mapas. También el uso de las pseudoclases, pseudoelementos, selectores de CSS avanzados, aprender a lidiar con la opacidad, sombra y comprender el viewport y el diseño responsivo.
+
+### ¿Que se aprendió a lo largo de este curso?
+* Medidas proporcionales con CSS.
+* Como funciona la propiedad `float` y como se puede usar para que los elementos floten sobre al lado que se indica.
+* Como limpiar la propiedad `float` con la propiedad `clear` del CSS.
+* Utilizar fuentes externas.
+* Como incorporar un mapa y un video.
