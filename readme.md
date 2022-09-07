@@ -82,3 +82,5 @@ En este curso se vio como importar contenido externo como fuentes, videos y mapa
 * Como limpiar la propiedad `float` con la propiedad `clear` del CSS.
 * Utilizar fuentes externas.
 * Como incorporar un mapa y un video.
+* Pseudo-elementos.
+* A mejorar la semántica ded la página principal con nuevas divisiones.
