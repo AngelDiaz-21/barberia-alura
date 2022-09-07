@@ -12,8 +12,9 @@ main{
 }
 
 .principal{
-    background-color: #cccccc;
-    padding: 20px;
+    background-color: #FEFEFE;
+    padding: 3em 0;
+    line-height: 1.5;
 }
 
 .title-principal{
@@ -46,13 +47,43 @@ main{
     font-size: 20px;
 }
 
-.map{
-    padding: 3em 0;
-}
-
 .map p{
     margin: 0 0 2em;
     text-align: center;
+}
+
+.diferenciales{
+    padding: 3em 0;
+}
+
+.contenidoDiferenciales{
+    /* width: 960px; */
+    margin: 0 auto;
+}
+
+.listaDiferenciales{
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.items{
+    font-style: italic;
+    line-height: 1.5;
+}
+
+.items:first-letter{
+    font-size: 25px;
+    padding: 0 10px;
+}
+
+.items:before{
+    content: "★";
+}
+
+.imgDiferenciales{
+    width: 60%;
+    border-radius: 5%;
 }
 
 .video{
@@ -60,7 +91,7 @@ main{
     margin: 1em auto;
 }
 
-.diferenciales h2{
+/* .diferenciales h2{
     text-align: center;
 }
 
@@ -72,11 +103,8 @@ main{
     padding: 30px;
 }
 
-.items{
-    font-style: italic;
-}
 
 .imgDiferenciales{
     width: 50%;
     border-radius: 5%;
-}
+} */
