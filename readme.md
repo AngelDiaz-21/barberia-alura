@@ -84,3 +84,21 @@ En este curso se vio como importar contenido externo como fuentes, videos y mapa
 * Como incorporar un mapa y un video.
 * Pseudo-elementos.
 * A mejorar la semántica ded la página principal con nuevas divisiones.
+* Selectores avanzados CSS
+  * Selector `>`: Permite acceder a los hijos de determinado elemento. Por ejemplo, para acceder a todos los `p` dentro de `main`:
+    `main > p { } `
+  * Selector `+`: Para acceder al primer hermano de determinado elemento. Por ejemplo, para acceder el primer `p` después del elemento `img`:
+    `ìmg + p { }`
+  * Selector `~`: Para acceder a todos los hermanos de determinado elemento. Por ejemplo, para acceder a todos los `p` después de un elemento `img`:
+    `img ~ p { }`
+  * Selector `not`: Para acceder a los elementos, excepto algunos. Por ejemplo, para acceder a todos los `p` dentro de `main` excepto el `p` que tiene el `id` `missao`:
+    `main p:not(#missao) { }`
+* Como agregar un sombreado alrededor de los elementos con la propiedad CSS `box-shadow`.
+  * `box-shadow` admite 5 parámetros:
+    El primero permite establecer la sombra en el eje x, si es positivo la sombra estará del lado derecho, si es negativo estará en el lado izquierdo.
+    El segundo permite establecer la sombre en el eje y, si es positivo la sombra estará abajo del elemento, si es negativo estará arriba del elemento o derecha superior.
+    El tercer parámetro permite difuminar la sombra, es decir, en que proporción va de solido a más transparente. Entre más grande el número más estara difuminada la sombra.
+    El cuarto parámetro es la expansión, permite establecer hasta donde queremos que llegue la sombra. 
+    El quinto parámetro es el color.
+    También se puede agregar más sombras, solo se tiene que poner una coma (,) para separarlas y también se puede establecer que la sombra sea interna, para esto desde un principio se coloca el valor inset.
+* Como agregar un sombreado a los textos con la propiedad CSS `text-shadow`.
