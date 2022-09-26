@@ -12,7 +12,7 @@
 <body>
     <header>
         <div class="container-header">
-            <h1><img src="../assets/images/productos/logo.png" alt="Logo"></h1>
+            <img src="../assets/images/productos/logo.png" alt="Logo" class="logo">
             <nav>
                 <ul>
                     <li><a href="../index.html">Home</a></li>
@@ -23,67 +23,84 @@
         </div>
     </header>
     <main>
-        <form>
-            <label for="nombreApellido">Nombre y apellido</label>
-            <input type="text" id="nombreApellido" class="input-datos" required>
+        <section class="informacion-contacto">
+            <form>
+                <div class="form-group">
+                    <label for="nombre">Nombre(s)</label>
+                    <input type="text" id="nombre" class="input-datos" required>
+                </div>
 
-            <label for="email">Correo electrónico</label>
-            <input type="email" id="email" class="input-datos" required placeholder="email@dominio.com">
+                <div class="form-group">
+                    <label for="apellidoPaterno">Apellido paterno</label>
+                    <input type="text" id="apellidoPaterno" class="input-datos" required>
+                </div>
 
-            <label for="telefono">Teléfono</label>
-            <input type="tel" id="telefono" class="input-datos" required placeholder="(xx) xxxx xxxx">
+                <div class="form-group">
+                    <label for="apellidoMaterno">Apellido Materno</label>
+                    <input type="text" id="apellidoMaterno" class="input-datos" required>
+                </div>
 
-            <label for="mensaje">Mensaje</label>
-            <textarea id="mensaje" cols="70" rows="10" class="input-datos" required></textarea>
+                <div class="form-group">
+                    <label for="email">Correo electrónico</label>
+                    <input type="email" id="email" class="input-datos" required placeholder="email@dominio.com">
+                </div>
+
+                <div class="form-group">
+                    <label for="telefono">Teléfono</label>
+                    <input type="tel" id="telefono" class="input-datos" required placeholder="(xx) xxxx xxxx">
+                </div>
+
+                <label for="mensaje">Mensaje</label>
+                <textarea id="mensaje" cols="70" rows="10 required" class="input-datos"></textarea>
             
-            <fieldset>
-                <legend>¿Cómo le gustaría que lo contactemos?</legend>
-                <label for="radio-email"><input type="radio" name="contacto" value="email" id="radio-email">Email</label>
-                
-                <label for="radio-telefono"><input type="radio" name="contacto" value="telefono" id="radio-telefono">Teléfono</label>
-                
-                <label for="radio-whatsapp"><input type="radio" name="contacto" value="whatsapp" id="radio-whatsapp" checked>WhatsApp</label>
-            </fieldset>
-
-            <fieldset>
-                <legend>¿En que horario desea ser atendido?</legend>
-                <select name="" id="">
-                    <option selected>Elija una opción</option>
-                    <option value="">Mañana</option>
-                    <option value="">tarde</option>
-                    <option value="">Noche</option>
-                </select>
-            </fieldset>
-
-            <label class="recibirActualizaciones"><input type="checkbox" checked>¿Le gustaría recibir actualizaciones de la Barbería Alura?</label>
-
-            <input type="submit" value="Enviar datos" class="btn-enviar">
-        </form>
-        <table>
-            <thead>
-                <tr>
-                    <th>Día</th>
-                    <th>Horario</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>Lunes</td>
-                    <td>08:00 AM ~ 20:00 PM</td>
-                </tr>
-                <tr>
-                    <td>Miércoles</td>
-                    <td>08:00 AM ~ 20:00 PM</td>
-                </tr>
-                <tr>
-                    <td>Viernes</td>
-                    <td>08:00 AM ~ 20:00 PM</td>
-                </tr>
-            </tbody>
-        </table>
+                <fieldset>
+                    <legend>¿Cómo le gustaría que lo contactemos?</legend>
+                    <label for="radio-email"><input type="radio" name="contacto" value="email" id="radio-email">Email</label>
+            
+                    <label for="radio-telefono"><input type="radio" name="contacto" value="telefono" id="radio-telefono">Teléfono</label>
+            
+                    <label for="radio-whatsapp"><input type="radio" name="contacto" value="whatsapp" id="radio-whatsapp" checked>WhatsApp</label>
+                </fieldset>
+                <fieldset>
+                    <legend>¿En que horario desea ser atendido?</legend>
+                    <select name="" id="">
+                        <option selected>Elija una opción</option>
+                        <option value="">Mañana</option>
+                        <option value="">tarde</option>
+                        <option value="">Noche</option>
+                    </select>
+                </fieldset>
+                <label class="recibir-actualizaciones"><input type="checkbox" checked>¿Le gustaría recibir actualizaciones de la Barbería Alura?</label>
+                <div class="button-send">
+                    <input type="submit" value="Enviar datos" class="btn-enviar">
+                </div>
+            </form>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Día</th>
+                        <th>Horario</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Lunes</td>
+                        <td>08:00 AM ~ 20:00 PM</td>
+                    </tr>
+                    <tr>
+                        <td>Miércoles</td>
+                        <td>08:00 AM ~ 20:00 PM</td>
+                    </tr>
+                    <tr>
+                        <td>Viernes</td>
+                        <td>08:00 AM ~ 20:00 PM</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
     </main>
     <footer>
-        <img src="../assets/images/productos/logo-blanco.png" alt="Logo">
+        <img class="logo" src="../assets/images/productos/logo-blanco.png" alt="Logo">
         <p class="copyright">&copy Copyright Barbería Alura - 2022</p>
     </footer>
 </body>
