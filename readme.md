@@ -1,4 +1,5 @@
-# Crea tus primeras páginas web
+# Creando las primeras páginas web
+
 ## HTML5 Y CSS3 parte 1: Mi primera página web
 
 En este curso se vio lo que es el HTML y CSS, la estructura básica de una archivo HTML, a definir estilos para los elementos usando CSS dando como resultado el desarrollo de una página web.
@@ -27,9 +28,11 @@ En este curso se vio lo que es el HTML y CSS, la estructura básica de una archi
 * El concepto de encabezado de página y como crearlo.
 
 ## HTML5 y CSS3 parte 2: Posicionamiento, listas y navegación
+
 En este curso se vio la forma de navegar entre páginas web, el reset.css y el posicionamiento por el CSS, las diferencias entre inline-block, lidiar con los bordes y capturar eventos con CSS, crear el encabezado y pie de página de una página web.
 
 ### ¿Que se aprendió a lo largo de este curso?
+
 * Crear links para movernos a otras páginas con la etiqueta `<a>` y como quitar su decoración.
 * Como transformar el texto para tener todas las letras en mayúsculas con la propiedad `text-transform`.
 * Como quitar los estilos que el navegador crea automáticamente.
@@ -45,9 +48,11 @@ En este curso se vio la forma de navegar entre páginas web, el reset.css y el p
 * Uso de la etiqueta `<footer>` para el pie de página.
 
 ## HTML5 y CSS3 parte 3: Trabajando con formularios y tablas
+
 En este curso se vio como crear formularios, campos para dispositivos móviles, presentar información en tablas. Estilos para formularios, campos y tablas, así como el uso de transformaciones y transiciones.
 
 ### ¿Que se aprendió a lo largo de este curso?
+
 * A crear un formulario.
 * Uso de la etiqueta `<input>`, para la entrada de datos del usuario.
 * A crear una etiqueta para el input con la etiqueta `<label>`.
@@ -74,9 +79,11 @@ En este curso se vio como crear formularios, campos para dispositivos móviles, 
   * La etiqueta `tfoot`, representa el pie de página de la tabla.
 
 ## HTML5 y CSS3 parte 4: Avanzando en CSS
+
 En este curso se vio como importar contenido externo como fuentes, videos y mapas. También el uso de las pseudoclases, pseudoelementos, selectores de CSS avanzados, aprender a lidiar con la opacidad, sombra y comprender el viewport y el diseño responsivo.
 
 ### ¿Que se aprendió a lo largo de este curso?
+
 * Medidas proporcionales con CSS.
 * Como funciona la propiedad `float` y como se puede usar para que los elementos floten sobre al lado que se indica.
 * Como limpiar la propiedad `float` con la propiedad `clear` del CSS.
@@ -98,7 +105,7 @@ En este curso se vio como importar contenido externo como fuentes, videos y mapa
     El primero permite establecer la sombra en el eje x, si es positivo la sombra estará del lado derecho, si es negativo estará en el lado izquierdo.
     El segundo permite establecer la sombre en el eje y, si es positivo la sombra estará abajo del elemento, si es negativo estará arriba del elemento o derecha superior.
     El tercer parámetro permite difuminar la sombra, es decir, en que proporción va de solido a más transparente. Entre más grande el número más estara difuminada la sombra.
-    El cuarto parámetro es la expansión, permite establecer hasta donde queremos que llegue la sombra. 
+    El cuarto parámetro es la expansión, permite establecer hasta donde queremos que llegue la sombra.
     El quinto parámetro es el color.
     También se puede agregar más sombras, solo se tiene que poner una coma (,) para separarlas y también se puede establecer que la sombra sea interna, para esto desde un principio se coloca el valor inset.
 * Como agregar un sombreado a los textos con la propiedad CSS `text-shadow`.
