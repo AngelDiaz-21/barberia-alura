@@ -102,3 +102,5 @@ En este curso se vio como importar contenido externo como fuentes, videos y mapa
     El quinto parámetro es el color.
     También se puede agregar más sombras, solo se tiene que poner una coma (,) para separarlas y también se puede establecer que la sombra sea interna, para esto desde un principio se coloca el valor inset.
 * Como agregar un sombreado a los textos con la propiedad CSS `text-shadow`.
+* Design responsivo: Cómo ajustar el estilo de la página según el tamaño de pantalla del dispositivo.
+* Media Queries.
