@@ -1,5 +1,5 @@
 # Creando las primeras páginas web
-
+Link de la página: [https://angeldiaz-21.github.io/barberia-alura/](https://angeldiaz-21.github.io/barberia-alura/)
 ## HTML5 Y CSS3 parte 1: Mi primera página web
 
 En este curso se vio lo que es el HTML y CSS, la estructura básica de una archivo HTML, a definir estilos para los elementos usando CSS dando como resultado el desarrollo de una página web.
