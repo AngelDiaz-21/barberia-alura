@@ -53,15 +53,19 @@
                 <label for="mensaje">Mensaje</label>
                 <textarea id="mensaje" cols="70" rows="10 required" class="input-datos"></textarea>
             
-                <fieldset>
+                <fieldset class="forma-contactar">
                     <legend>¿Cómo le gustaría que lo contactemos?</legend>
-                    <label for="radio-email"><input type="radio" name="contacto" value="email" id="radio-email">Email</label>
-            
-                    <label for="radio-telefono"><input type="radio" name="contacto" value="telefono" id="radio-telefono">Teléfono</label>
-            
-                    <label for="radio-whatsapp"><input type="radio" name="contacto" value="whatsapp" id="radio-whatsapp" checked>WhatsApp</label>
+                    <label for="radio-email">
+                        <input type="radio" name="contacto" value="email" id="radio-email">Email
+                    </label>
+                    <label for="radio-telefono">
+                        <input type="radio" name="contacto" value="telefono" id="radio-telefono">Teléfono
+                    </label>
+                    <label for="radio-whatsapp">
+                        <input type="radio" name="contacto" value="whatsapp" id="radio-whatsapp" checked>WhatsApp
+                    </label>
                 </fieldset>
-                <fieldset>
+                <fieldset class="hora-atencion">
                     <legend>¿En que horario desea ser atendido?</legend>
                     <select name="" id="">
                         <option selected>Elija una opción</option>
@@ -70,7 +74,10 @@
                         <option value="">Noche</option>
                     </select>
                 </fieldset>
-                <label class="recibir-actualizaciones"><input type="checkbox" checked>¿Le gustaría recibir actualizaciones de la Barbería Alura?</label>
+                <label class="recibir-actualizaciones">
+                    <input type="checkbox" checked>
+                    ¿Le gustaría recibir actualizaciones de la Barbería Alura?
+                </label>
                 <div class="button-send">
                     <input type="submit" value="Enviar datos" class="btn-enviar">
                 </div>
