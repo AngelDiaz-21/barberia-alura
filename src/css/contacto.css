@@ -31,13 +31,36 @@ textarea{
     border-radius: 10px;
 }
 
+.forma-contactar label{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    width: 200px;
+    margin: 20px 0;
+}
+
+.forma-contactar input{
+    width: 8%;
+}
+
+.hora-atencion{
+    margin: 20px 0;
+}
+
 select{
     padding: 10px;
     border-radius: 20px;
 }
 
 .recibir-actualizaciones{
+    display: flex;
+    flex-direction:  row-reverse;
+    justify-content: flex-end;
     margin: 20px 0;
+}
+
+.recibir-actualizaciones input {
+    width: 5%;
 }
 
 .button-send{
